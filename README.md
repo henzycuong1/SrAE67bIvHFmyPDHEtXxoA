@@ -10,7 +10,7 @@ http://45.117.80.50:8000/api/get/devices
    "accessToken": "841e441596d698429da51ba5f56f0dd4917c0ed9fcd77d2b21aa11fe7103bed831ab10c0540d7f53a178806340120fca099e"
 }
 ```
-#### Response: ( devices sẽ là mảng id của các thiết bị )
+#### Response: ( devices sẽ là mảng chứa id của các thiết bị )
 ```JSON
 {
     "status": true,
