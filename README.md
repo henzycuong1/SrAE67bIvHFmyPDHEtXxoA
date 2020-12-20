@@ -1,3 +1,9 @@
+# Lấy accessToken và id của tài khoản
+#### Bước 1: Đăng ký tại trang: http://45.117.80.50/register ( hiện tại bên google đang xác thực host để cấp captcha - lỗi chưa đăng ký được )
+#### Bước 2: Sau khi đăng ký và đăng nhập thành công. Ấn F12 ta sẽ được bảng console như hình dưới đây
+![alt text](./1.png)
+### Bước 3: Chuyển sang tab Application của console và chỉ đến phần Session Storage như hình dưới
+![alt text](./2.png)
 # Lấy danh sách thiết bị
 #### URL:
 ```bash
