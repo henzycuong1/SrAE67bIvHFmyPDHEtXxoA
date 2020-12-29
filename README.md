@@ -7,7 +7,7 @@
 # Lấy danh sách thiết bị
 #### URL:
 ```bash
-http://45.117.80.50/api/get/devices
+http://www.vhie.tk/api/get/devices
 ```
 #### Request body:
 ```JSON
@@ -28,7 +28,7 @@ http://45.117.80.50/api/get/devices
 
 #### URL:
 ```bash
-http://45.117.80.50/api/get/device/:device_id
+https://www.vhie.tk/api/get/device/:device_id
 ```
 #### Request body:
 ```JSON
@@ -87,7 +87,7 @@ http://45.117.80.50/api/get/device/:device_id
 
 #### URL:
 ```bash
-http://45.117.80.50/api/set/device/:device_id
+https://www.vhie.tk/api/set/device/:device_id
 ```
 #### Request body: (Có thể gửi 1 hoặc nhiều tham số 1 lúc)
 ```JSON
