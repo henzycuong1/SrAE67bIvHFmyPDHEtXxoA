@@ -1,5 +1,5 @@
 # Lấy accessToken và id của tài khoản
-#### Bước 1: Đăng ký tại trang: http://45.117.80.50/register ( hiện tại bên google đang xác thực host để cấp captcha - lỗi chưa đăng ký được )
+#### Bước 1: Đăng ký tại trang: https://www.vhie.tk/register
 #### Bước 2: Sau khi đăng ký và đăng nhập thành công. Ấn F12 ta sẽ được bảng console như hình dưới đây
 ![alt text](./1.png)
 ### Bước 3: Chuyển sang tab Application của console và chỉ đến phần Session Storage như hình dưới
@@ -7,7 +7,7 @@
 # Lấy danh sách thiết bị
 #### URL:
 ```bash
-http://www.vhie.tk/api/get/devices
+https://www.vhie.tk/api/get/devices
 ```
 #### Request body:
 ```JSON
